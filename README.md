@@ -48,7 +48,7 @@ The model used is **YOLOv5m**, a pre-trained model trained on the **COCO dataset
 python3 main.py  # When using image mode
 ```
 
-## 📹 Real-Time Webcam Detection
+### 📹 Real-Time Webcam Detection
 ```bash
 python3 main.py  # With webcam code enabled
 ```
@@ -59,60 +59,63 @@ python3 main.py  # With webcam code enabled
 <pre>
 
 ObjectDetectionSystem/
-├── main.py             # Detection code (image & webcam)
-├── requirements.txt    # Required Python packages
-├── README.md           # This file
-├── yolov5s.pt / yolov5m.pt  # Auto-downloaded model
-├── sample.jpg          # Sample image for testing
+├── main.py             	# Detection code (image & webcam)
+├── requirements.txt  		# Required Python packages
+├── README.md           	# This file
+├── yolov5s.pt / yolov5m.pt  	# Auto-downloaded model
+├── sample.jpg          	# Sample image for testing
 
 </pre>
 
 ## 🧪 Installation & Setup:
 
-	1.	Clone this repo (or download it)
-	2.	Install requirements:
+1. Clone this repo (or download it)
+2. Install requirements:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-    3.	Add your own image as sample.jpg (optional)
-	4.	Run the code:
+```bash
+pip install -r requirements.txt
+```
+3. Add your own image as sample.jpg (optional)
+4. Run the code:
 
-    ```bash
-    python3 main.py
-    ```
+```bash
+python3 main.py
+```
+
 ## 🔍 Object Classes Detected
 
 Based on the COCO dataset:  
-	•	People, Cars, Bikes, Bottles, Laptops, Phones, Animals, Chairs, and many more (80+ classes)  
+• People, Cars, Bikes, Bottles, Laptops, Phones, Animals, Chairs, and many more (80+ classes)  
 
-⸻
+---
 
 ## 🎓 What I Learned
-	•	Real-time object detection with YOLOv5  
-	•	Model integration with Python + OpenCV  
-	•	Optimizing ML models for CPU-based environments  
-	•	Handling video frames and image processing  
 
-⸻
+• Real-time object detection with YOLOv5  
+• Model integration with Python + OpenCV  
+• Optimizing ML models for CPU-based environments  
+• Handling video frames and image processing  
+
+---
 
 ## 💼 Internship Info
-	•	Internship Domain: Artificial Intelligence Intern  
-	•	Project ID: #CC3600  
-	•	Project Title: Object Detection System  
-	•	Organization: CodeClause  
-	•	Project Duration: 01 July 2025 – 31 July 2025  
 
-⸻
+• Internship Domain: Artificial Intelligence Intern  
+• Project ID: #CC3600  
+• Project Title: Object Detection System  
+• Organization: CodeClause  
+• Project Duration: 01 July 2025 – 31 July 2025  
+
+---
 
 ## 🔗 Project Link
 
-📎 GitHub Repository: https://github.com/galaxy00-7/CodeClauseInternship_ObjectDetectionSystem
+### 📎 GitHub Repository: https://github.com/galaxy00-7/CodeClauseInternship_ObjectDetectionSystem
 
-⸻
+---
 
 ## 🙌 Acknowledgements
 
 Thanks to:
-	•	Ultralytics YOLOv5  
-	•	CodeClause for the opportunity  
+• Ultralytics YOLOv5  
+• CodeClause for the opportunity  
