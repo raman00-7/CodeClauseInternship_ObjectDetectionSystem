@@ -110,7 +110,7 @@ Based on the COCO dataset:
 
 ## 🔗 Project Link
 
-### 📎 GitHub Repository: https://github.com/galaxy00-7/CodeClauseInternship_ObjectDetectionSystem
+### 📎 GitHub Repository: https://github.com/raman00-7/CodeClauseInternship_ObjectDetectionSystem
 
 ---
 
